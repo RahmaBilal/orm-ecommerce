@@ -72,7 +72,7 @@ Follow these steps for a smooth installation:
 ### Links
 GitHub: https://github.com/RahmaBilal/orm-ecommerce
 <br>
-Walkthrough video: 
+Walkthrough video: https://watch.screencastify.com/v/BC2NrPqyBsbyxxmPD3fQ
 
 ---
 
